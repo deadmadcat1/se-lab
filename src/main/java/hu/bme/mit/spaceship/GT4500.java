@@ -95,3 +95,4 @@ public class GT4500 implements SpaceShip {
   }
 
 }
+//Crazy? I was crazy once...
