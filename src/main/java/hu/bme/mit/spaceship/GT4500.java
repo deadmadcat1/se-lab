@@ -95,8 +95,5 @@ public class GT4500 implements SpaceShip {
   }
 
 }
-<<<<<<< HEAD
 //Crazy? I was crazy once...
 //A rubber room with rats.
-=======
->>>>>>> branch-B
